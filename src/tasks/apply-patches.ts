@@ -5,7 +5,7 @@ import modifyManifest from './modify-manifest'
 import createNetworkSecurityConfig from './create-netsec-config'
 import disableCertificatePinning from './disable-certificate-pinning'
 import copyCertificateFile from './copy-certificate-file'
-import fixXmlRes from "./fix-xml-res";
+import fixXmlRes from "./fix-xml-res"
 
 export default function applyPatches(
   decodeDir: string,

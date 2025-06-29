@@ -30,10 +30,10 @@ Specifically, I'd like to highlight [mitmproxy's `android-unpinner` project][and
 
 ## Installation
 
-If you have an up-to-date version of [Node.js][node] (14+) and [Java][java] (8+), you can install `apk-mitm` by running:
+If you have an up-to-date version of [Bun][bun] and [Java][java] (8+), you can install `apk-mitm` by running:
 
 ```shell
-bun install -g apk-mitm
+bun install -g apk-mitm-fork
 ```
 
 ## Usage

@@ -1,2 +1,2 @@
 #!/usr/bin/env bun
-require('../src/cli')
+require('../src/cli.ts')

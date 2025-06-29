@@ -20,9 +20,7 @@
     "format": "prettier --write .",
     "lint": "prettier --check ."
   },
-  "bin": "bin/apk-mitm",
   "files": [
-    "bin",
     "dist"
   ],
   "engines": {

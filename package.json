@@ -2,7 +2,7 @@
   "name": "apk-mitm",
   "description": "A CLI application that automatically prepares Android APK files for HTTPS inspection",
   "main": "dist/index.js",
-  "repository": "shroudedcode/apk-mitm",
+  "repository": "umbrageodotus/apk-mitm",
   "keywords": [
     "cli",
     "reverse engineering",
@@ -20,9 +20,7 @@
     "format": "prettier --write .",
     "lint": "prettier --check ."
   },
-  "bin": "bin/apk-mitm",
   "files": [
-    "bin",
     "dist"
   ],
   "engines": {

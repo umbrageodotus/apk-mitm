@@ -53,8 +53,6 @@ jobs:
         uses: actions/checkout@v1
       - name: Install Bun
         uses: oven-sh/setup-bun@v2
-      - name: Install dependencies
-        run: bun install
       - name: Publish to NPM
         run: bun publish
         env:

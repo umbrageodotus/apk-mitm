@@ -20,6 +20,7 @@
     "format": "prettier --write .",
     "lint": "prettier --check ."
   },
+  "bin": "src/cli.ts",
   "files": [
     "dist"
   ],

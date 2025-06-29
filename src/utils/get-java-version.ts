@@ -12,7 +12,7 @@ export default async function getJavaVersion() {
     }
 
     return parseInt(majorVersionString)
-  } catch (error) {
+  } catch (error: any) {
     if (error.code === 'ENOENT')
       throw new UserError(
         'No "java" executable could be found!' +

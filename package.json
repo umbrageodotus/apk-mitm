@@ -1,5 +1,5 @@
 {
-  "name": "@asothii/apk-mitm",
+  "name": "apk-mitm-fork",
   "description": "A CLI application that automatically prepares Android APK files for HTTPS inspection",
   "repository": "umbrageodotus/apk-mitm",
   "keywords": [

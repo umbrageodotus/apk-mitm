@@ -19,10 +19,13 @@
     "format": "prettier --write .",
     "lint": "prettier --check ."
   },
-  "bin": "tsc && ./src/cli.js",
+  "bin": "tsc && dist/cli.js",
   "engines": {
     "node": ">=14"
   },
+  "files": [
+    "dist"
+  ],
   "dependencies": {
     "@tybys/cross-zip": "^3.1.0",
     "chalk": "^4.1.0",

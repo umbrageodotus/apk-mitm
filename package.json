@@ -14,7 +14,7 @@
   "license": "MIT",
   "scripts": {
     "build": "tsc",
-    "postinstall": "tsc",
+    "postinstall": "bunx tsc",
     "test": "tsc",
     "watch": "tsc --watch",
     "format": "prettier --write .",

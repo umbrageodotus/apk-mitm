@@ -2,7 +2,6 @@
   "compilerOptions": {
     "target": "es2018",
     "module": "commonjs",
-    "outDir": "dist",
     "noUnusedLocals": true,
     "declaration": true,
     "strict": true

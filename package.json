@@ -16,7 +16,7 @@
   },
   "version": "1.3.0",
   "license": "MIT",
-  "bin": "src/cli.ts",
+  "bin": "bun src/cli.ts",
   "engines": {
     "node": ">=14"
   },

@@ -98,7 +98,7 @@ MIT © [Niklas Higi](https://shroudedcode.com)
 [android-unpinner]: https://github.com/mitmproxy/android-unpinner
 [frida-interception-and-unpinning]: https://github.com/httptoolkit/frida-interception-and-unpinning
 [frida]: https://frida.re/
-[node]: https://nodejs.org/en/download/
+[bun]: https://bun.sh/get
 [java]: https://www.oracle.com/technetwork/java/javase/downloads/index.html
 [apklab]: https://github.com/Surendrajat/APKLab
 [apklab-mitm]: https://github.com/Surendrajat/APKLab#apply-mitm-patch

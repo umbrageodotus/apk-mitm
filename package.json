@@ -1,7 +1,6 @@
 {
   "name": "apk-mitm",
   "description": "A CLI application that automatically prepares Android APK files for HTTPS inspection",
-  "main": "dist/index.js",
   "repository": "umbrageodotus/apk-mitm",
   "keywords": [
     "cli",
@@ -20,10 +19,7 @@
     "format": "prettier --write .",
     "lint": "prettier --check ."
   },
-  "bin": "./src/cli.ts",
-  "files": [
-    "dist"
-  ],
+  "bin": "tsc && ./src/cli.js",
   "engines": {
     "node": ">=14"
   },
